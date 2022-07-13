@@ -1,0 +1,7 @@
+Ip: 10.10.0.1
+Conflict: No
+Color:
+    Red
+A[10]
+B[20]
+C[30]
