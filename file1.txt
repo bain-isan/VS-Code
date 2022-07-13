@@ -1,7 +1,6 @@
 Ip: 10.10.0.2.2
 Conflict: No
 Color:
-    Red
+    Pink
 A[10]
-B[10]
 C[30]
