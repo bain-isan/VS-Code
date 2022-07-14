@@ -3,4 +3,6 @@ Conflict: No
 Color:
     Pink
 A[10]
+B[200]
 C[30]
+D[1]
